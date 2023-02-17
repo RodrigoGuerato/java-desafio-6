@@ -1,8 +1,8 @@
-package br.com.edusync.desafio5.controllers;
+package br.com.edusync.desafio6.controllers;
 
-import br.com.edusync.desafio5.models.Produto;
-import br.com.edusync.desafio5.repositories.params.FiltroProdutoParam;
-import br.com.edusync.desafio5.services.ProdutoService;
+import br.com.edusync.desafio6.models.Produto;
+import br.com.edusync.desafio6.repositories.params.FiltroProdutoParam;
+import br.com.edusync.desafio6.services.ProdutoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

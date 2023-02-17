@@ -1,4 +1,4 @@
-package br.com.edusync.desafio5.models;
+package br.com.edusync.desafio6.models;
 
 import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;

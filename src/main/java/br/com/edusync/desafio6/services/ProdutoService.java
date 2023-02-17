@@ -1,9 +1,9 @@
-package br.com.edusync.desafio5.services;
+package br.com.edusync.desafio6.services;
 
-import br.com.edusync.desafio5.models.Produto;
-import br.com.edusync.desafio5.repositories.ProdutoRepository;
-import br.com.edusync.desafio5.repositories.ProdutoRepositoryCustom;
-import br.com.edusync.desafio5.repositories.params.FiltroProdutoParam;
+import br.com.edusync.desafio6.models.Produto;
+import br.com.edusync.desafio6.repositories.ProdutoRepository;
+import br.com.edusync.desafio6.repositories.ProdutoRepositoryCustom;
+import br.com.edusync.desafio6.repositories.params.FiltroProdutoParam;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

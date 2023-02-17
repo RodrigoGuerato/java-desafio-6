@@ -1,4 +1,4 @@
-package br.com.edusync.desafio5.models;
+package br.com.edusync.desafio6.models;
 
 import lombok.Data;
 
@@ -15,6 +15,10 @@ public class Produto {
     private String descricao;
     private BigDecimal precoUnitario;
     private Integer saldoAtual;
+
+    public Produto() {
+        this.saldoAtual = 0;
+    }
 
     public void atualizaSaldo(Integer quantidade, String tipoMovimento) {
         if (tipoMovimento.equals("E")) {

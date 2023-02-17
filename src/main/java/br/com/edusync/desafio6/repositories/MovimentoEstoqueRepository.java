@@ -1,6 +1,6 @@
-package br.com.edusync.desafio5.repositories;
+package br.com.edusync.desafio6.repositories;
 
-import br.com.edusync.desafio5.models.MovimentoEstoque;
+import br.com.edusync.desafio6.models.MovimentoEstoque;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

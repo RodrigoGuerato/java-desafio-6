@@ -1,4 +1,4 @@
-package br.com.edusync.desafio5;
+package br.com.edusync.desafio6;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

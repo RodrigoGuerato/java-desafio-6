@@ -1,9 +1,6 @@
-package br.com.edusync.desafio5.models.dto;
+package br.com.edusync.desafio6.models.dto;
 
-import br.com.edusync.desafio5.models.MovimentoEstoque;
 import lombok.Data;
-
-import java.time.LocalDateTime;
 
 @Data
 public class MovtoEstoqueRequestDTO {

@@ -1,8 +1,8 @@
-package br.com.edusync.desafio5.repositories.criteria;
+package br.com.edusync.desafio6.repositories.criteria;
 
-import br.com.edusync.desafio5.models.Produto;
-import br.com.edusync.desafio5.repositories.ProdutoRepositoryCustom;
-import br.com.edusync.desafio5.repositories.params.FiltroProdutoParam;
+import br.com.edusync.desafio6.models.Produto;
+import br.com.edusync.desafio6.repositories.ProdutoRepositoryCustom;
+import br.com.edusync.desafio6.repositories.params.FiltroProdutoParam;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

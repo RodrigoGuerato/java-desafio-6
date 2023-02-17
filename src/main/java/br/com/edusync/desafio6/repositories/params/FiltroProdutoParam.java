@@ -1,4 +1,4 @@
-package br.com.edusync.desafio5.repositories.params;
+package br.com.edusync.desafio6.repositories.params;
 
 import lombok.Data;
 

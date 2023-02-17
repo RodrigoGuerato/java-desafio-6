@@ -1,10 +1,10 @@
-package br.com.edusync.desafio5.services;
+package br.com.edusync.desafio6.services;
 
-import br.com.edusync.desafio5.models.MovimentoEstoque;
-import br.com.edusync.desafio5.models.Produto;
-import br.com.edusync.desafio5.models.dto.MovtoEstoqueRequestDTO;
-import br.com.edusync.desafio5.repositories.MovimentoEstoqueRepository;
-import br.com.edusync.desafio5.repositories.ProdutoRepository;
+import br.com.edusync.desafio6.models.MovimentoEstoque;
+import br.com.edusync.desafio6.models.Produto;
+import br.com.edusync.desafio6.models.dto.MovtoEstoqueRequestDTO;
+import br.com.edusync.desafio6.repositories.MovimentoEstoqueRepository;
+import br.com.edusync.desafio6.repositories.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
